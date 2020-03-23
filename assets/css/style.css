@@ -17,12 +17,16 @@ body{
 
 .instructions{
     background-color: wheat;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
     color: teal;
     margin-left: 10px;
-    width: 400px;
-    padding-top: 20px;
+    width: 450px;
+    padding-top: 30px;
     padding-bottom: 100px;
-    padding-left: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    
 }
 
 .numberToMatch{
@@ -40,6 +44,7 @@ body{
 .winsAndLosses {
     background-color: #48dbfb;
     color: indigo;
+    font-size: 25px;
     margin: 10px;
     padding: 50px;
     width: 120px;
